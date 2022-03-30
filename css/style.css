@@ -1,0 +1,36 @@
+
+body{
+	margin: 0;
+	background: url("../images/background.jpg");
+	font-family: 'Felipa', cursive;
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: #ffffff;
+
+}
+#container{
+	
+	width: 520px;
+	margin:0;
+
+	background:#8a0606;
+	opacity :0.5;
+}
+h1{
+	
+	font-size: 150px;
+	padding:0px;
+	margin:0px;
+}
+h2{
+	font-size: 45px;
+	background: red;
+	color: black;
+}
+p{
+	font-size: 30px;
+}
